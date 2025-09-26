@@ -124,7 +124,6 @@ Our vision is to democratize weather data collection and prediction by creating 
 cotract address;-0xDA0bab807633f07f013f94DD0E6A4F96F8742B53
 
 
+![Uploading image.png…]()
 
-
-<img width="1415" height="851" alt="image" src="https://github.com/user-attachments/assets/4da50fdb-8561-4cd2-82b9-e39d048155e9" />
 
