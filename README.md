@@ -122,8 +122,7 @@ Our vision is to democratize weather data collection and prediction by creating 
 
 **Built with ❤️ for a more transparent and data-driven weather forecasting future**
 cotract address;-0xDA0bab807633f07f013f94DD0E6A4F96F8742B53
+<img width="1383" height="655" alt="image" src="https://github.com/user-attachments/assets/68974da3-a411-42e1-bf32-ec847765fa8c" />
 
-
-![Uploading image.png…]()
 
 
